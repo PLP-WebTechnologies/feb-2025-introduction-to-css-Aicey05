@@ -1,0 +1,64 @@
+/* Main title */
+.main-title {
+    color: #2c3e50;
+    font-family: 'Arial', sans-serif;
+    font-size: 32px;
+    border-bottom: 3px solid #2980b9;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Introduction paragraph */
+#intro-text {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+    margin: 10px 0 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 5px solid #3498db;
+}
+
+/* Styled image */
+.styled-image {
+    width: 300px;
+    border: 3px solid #555;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+/* Learning list */
+.learning-list {
+    font-family: 'Verdana', sans-serif;
+    color: #2e7d32;
+    background-color: #e8f5e9;
+    padding: 15px 20px;
+    border-radius: 8px;
+    line-height: 1.8;
+}
+
+/* Quote box */
+.quote-box {
+    background-color: #fff3cd;
+    border-left: 5px solid #ffca28;
+    padding: 15px;
+    margin: 20px 0;
+    font-style: italic;
+    color: #6c584c;
+}
+
+/* Call-to-action button */
+.cta-button {
+    background-color: #2980b9;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.cta-button:hover {
+    background-color: #1c5980;
+}
